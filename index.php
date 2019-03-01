@@ -36,7 +36,5 @@ if(texto.lenght == 0){
 })
 
 </script>
-<input type="hidden" name="id" value="$('#texto')">
-<button type="submit"
 </body>
 </html>
